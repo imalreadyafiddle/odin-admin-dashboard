@@ -208,6 +208,7 @@ body {
 	display: grid;
 	gap: 15px;
 	padding: 15px 5px;
+	padding-right: 15px;
 }
 
 .bulletin-card.announcements{
